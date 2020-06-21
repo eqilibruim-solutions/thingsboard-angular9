@@ -28,7 +28,6 @@ pom.xml.versionsBackup
 **/.gradle
 **/local.properties
 **/build
-**/target
 **/Californium.properties
 **/.env
 .instance_id
